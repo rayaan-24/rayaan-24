@@ -58,8 +58,15 @@
 
 ## ❤️ Let's get connected:
 
+<a href="mailto:mohammedrayaann@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+</a>
 
 <a href="https://www.linkedin.com/in/mohammedrayaan24/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://www.instagram.com/__rayaanx._.24/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="https://www.snapchat.com/add/rayaanx_24" target="_blank">
+  <img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" height="30px"/>
+</a>
+
 </p>
 
