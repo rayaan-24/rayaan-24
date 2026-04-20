@@ -5,19 +5,22 @@
 </div>
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 <p>
-BCA student at <strong>VIT Vellore</strong> focused on building scalable <strong>Full Stack</strong> and <strong>AI-driven applications</strong>. <br/>
-I turn ideas into real-world systems — combining problem-solving, algorithms, and practical development.
+I build <strong>real-world systems</strong> using Full Stack and AI — not just projects, but solutions that solve actual problems.
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/📍_Location-Tamil_Nadu,_India-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e" />
-  <img src="https://img.shields.io/badge/🎓_VIT_Vellore-BCA_(AI_&_ML)-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e" />
-  <img src="https://img.shields.io/badge/🚀_Focus-FullStack_&_AI-0f0c29?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
-  <img src="https://img.shields.io/badge/🤝_Open_To-Collaboration-0f0c29?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
-</p>
+<ul>
+<li>🎓 BCA (4th Semester) @ <strong>VIT Vellore</strong></li>
+<li>🌐 Portfolio: <a href="https://rayaan-portfolio.vercel.app/">rayaan-portfolio.vercel.app</a></li>
+<li>💻 Working on <strong>Full Stack + AI Projects</strong></li>
+<li>🚆 Built <strong>TrackMyTrain (Flask + MySQL)</strong></li>
+<li>🚨 Building <strong>AI Emergency Evacuation System (A* + ACO)</strong></li>
+<li>🌱 Learning <strong>DSA & Competitive Programming</strong></li>
+<li>🤝 Open to <strong>collaboration & real-world projects</strong></li>
+<li>⚡ Debugging &gt; Sleeping 😄</li>
+</ul>
 
 </td>
 
