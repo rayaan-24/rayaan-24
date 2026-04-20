@@ -1,71 +1,32 @@
-<h1 align="center">
-  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  I'm Mohammed Rayaan N
-</h1>
+<div align="center">
 
-<h3 align="center">BCA Student @ VIT Vellore | Full Stack Developer | AI Enthusiast</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Rayaan%20N&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn)
 
----
-
-## 🚀 About Me
-
-<img src="./thoughtworks-gif_dribbble.gif" height="260px" align="right"/>
-
-- 🎓 BCA (4th Semester) @ VIT Vellore  
-- 🌐 Portfolio: https://rayaan-portfolio.vercel.app/  
-- 💻 Working on **Full Stack + AI Projects**  
-- 🚆 Built **TrackMyTrain (Flask + MySQL)**  
-- 🚨 Building **AI Emergency Evacuation System (A* + ACO)**  
-- 🌱 Currently learning **DSA & Competitive Programming**  
-- 🤝 Open to collaboration on **real-world dev projects**  
-- ⚡ Fun fact: Debugging > Sleeping 😄  
-
----
-
-## 🛠️ Tech Stack
+</div>
+<table>
+<tr>
+<td width="60%">
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,flask,java,html,css,js,typescript,react,nodejs,mysql,php,mongodb,git,github,vscode,postman,linux" />
+BCA student at <strong>VIT Vellore</strong> focused on building scalable <strong>Full Stack</strong> and <strong>AI-driven applications</strong>. <br/>
+I turn ideas into real-world systems — combining problem-solving, algorithms, and practical development.
 </p>
 
----
-
-## 📂 Featured Projects
-
-- 🚆 **TrackMyTrain**  
-  Train tracking system using Flask + MySQL (DBMS Project)
-
-- 🚨 **Smart Evacuation System**  
-  AI-based path finding using A* & Ant Colony Optimization
-
-- 🌐 **Portfolio Website**  
-  Personal portfolio built with modern UI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayaan-24&show_icons=true&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/📍_Location-Tamil_Nadu,_India-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e" />
+  <img src="https://img.shields.io/badge/🎓_VIT_Vellore-BCA_(AI_&_ML)-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e" />
+  <img src="https://img.shields.io/badge/🚀_Focus-FullStack_&_AI-0f0c29?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
+  <img src="https://img.shields.io/badge/🤝_Open_To-Collaboration-0f0c29?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
 </p>
 
----
+</td>
 
-## 🔥 GitHub Streak
+<td width="40%" align="center">
+<img src="thoughtworks-gif_dribbble.gif" width="260px"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rayaan-24&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Focusing On
-
-- 📌 Data Structures & Algorithms  
-- 📌 Competitive Coding  
-- 📌 AI + Real-world Applications  
-
----
 
 ## ❤️ Connect With Me
 
@@ -89,5 +50,141 @@
 
 ---
 
-## ⚡ Quote I Follow
-> “Learn. Build. Share. Repeat.”
+## 🛠 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>💻 Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+</td>
+
+<td align="center" width="33%">
+<b>🌐 Web Development</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
+</td>
+
+<td align="center" width="33%">
+<b>🗄️ Database</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🧰 Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</td>
+
+<td align="center">
+<b>📚 Currently Learning</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,mongodb" />
+</td>
+
+<td align="center">
+<b>🚀 Exploring</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=ai" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 AI Smart Evacuation System
+AI + IoT based emergency evacuation system using Ant Colony Optimization with real-time alerts and path visualization.
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESP32-323330?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Analyzer
+Full-stack AI app that analyzes resumes, gives ATS score, and provides feedback using Google Gemini AI.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 QuiznetiX
+Interactive quiz platform with timer, real-time tracking, and modern UI built using Next.js and Tailwind.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗳️ Online Voting System
+Java-based system with authentication, CRUD operations, and MySQL integration for secure voting.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚆 TrackMyTrain
+Train tracking system with Flask backend and MySQL database for route and schedule management.
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 More Coming Soon...
+Currently building advanced AI + Full Stack real-world systems.
+
+<img src="https://img.shields.io/badge/Status-In_Progress-302b63?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rayaan-24&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=rayaan-24&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+DSA & Problem Solving     ███████████░░░░░   Improving
+Full Stack Development    █████████████░░░   Building
+AI Projects               █████████░░░░░░░   Exploring
+Competitive Coding        ███████░░░░░░░░░   Learning
