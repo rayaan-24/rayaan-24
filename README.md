@@ -25,7 +25,9 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 </td>
 
 <td width="40%" align="center">
-<img src="thoughtworks-gif_dribbble.gif" width="260px"/>
+<a href="#">
+  <img height=170 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=rayaan-24&langs_count=8&layout=compact&theme=radical&card_width=180" />
+</a>
 </td>
 </tr>
 </table>
