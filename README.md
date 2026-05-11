@@ -189,6 +189,11 @@ Currently building advanced AI + Full Stack real-world systems.
 </div>
 
 ---
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=rayaan-24&color=blue&style=for-the-badge)
+
+---
 
 ## 🎯 Current Focus
 
