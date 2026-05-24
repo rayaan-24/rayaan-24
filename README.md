@@ -94,7 +94,7 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 
 <td align="center">
 <b>🚀 Exploring</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=ai" />
+<img src="https://skillicons.dev/icons?i=ai,docker" />
 </td>
 </tr>
 </table>
