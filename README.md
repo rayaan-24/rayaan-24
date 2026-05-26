@@ -182,7 +182,7 @@ Currently building advanced AI + Full Stack real-world systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rayaan-24&show_icons=true&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=rayaan-24&show_icons=true&theme=tokyonight"/> -->
 
 <img src="https://streak-stats.demolab.com?user=rayaan-24&theme=tokyonight"/>
 
