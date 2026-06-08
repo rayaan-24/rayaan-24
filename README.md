@@ -14,7 +14,7 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 </p>
 
 <ul>
-<li>🎓 BCA (4th Semester) @ <strong>VIT Vellore</strong></li>
+<li>🎓 BCA (5th Semester) @ <strong>VIT Vellore</strong></li>
 <li>🌐 Portfolio: <a href="https://rayaan-portfolio.vercel.app/">rayaan-portfolio.vercel.app</a></li>
 <li>💻 Working on <strong>Full Stack + AI Projects</strong></li>
 <li>🌐 Built Quiznetix: <a href="https://quiznetix.vercel.app">quiznetix.vercel.app</a></li>
