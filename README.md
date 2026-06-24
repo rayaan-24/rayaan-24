@@ -77,7 +77,7 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 
 <td align="center" width="33%">
 <b>🗄️ Database</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </td>
 </tr>
 
@@ -164,13 +164,18 @@ Train tracking system with Flask backend and MySQL database for route and schedu
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧩 More Coming Soon...
-Currently building advanced AI + Full Stack real-world systems.
+### 📦 Product Catalog & Business Management Platform
+Full-stack business platform for managing products, categories, customer inquiries, and website content through a centralized admin dashboard.
 
-<img src="https://img.shields.io/badge/Status-In_Progress-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+
+</td>
 
 </td>
 </tr>
