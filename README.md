@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Rayaan%20N&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7F00FF,8A2BE2,6A0DAD,4B0082,191970&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Mohammed+Rayaan;Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+build+projects;and+learn+new+things)
-<a href="https://www.thegitcity.com/dev/rayaan-24">
-<img src="https://www.thegitcity.com/dev/rayaan-24/opengraph-image" width="700" alt="Samuel Rizzon - Git City"/>
-</a>
+
 </div>
 
 <table>
