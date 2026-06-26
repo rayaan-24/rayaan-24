@@ -18,8 +18,7 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 <li>🎓 BCA (5th Semester) @ <strong>VIT Vellore</strong></li>
 <li>🌐 Portfolio: <a href="https://rayaan-portfolio.vercel.app/">rayaan-portfolio.vercel.app</a></li>
 <li>💻 Working on <strong>Full Stack + AI Projects</strong></li>
-<li>🚆 Built <strong>TrackMyTrain (Flask + MySQL)</strong></li>
-<li>🚨 Building <strong>AI Emergency Evacuation System (A* + ACO)</strong></li>
+<li>🚨 Built <strong>AI Emergency Evacuation System (A* + ACO)</strong></li>
 <li>🌐 Evacuation: <a href="https://new-smart-evacuation-project.onrender.com/">new-smart-evacuation-project.onrender.com</a></li>
 <li>🌱 Learning <strong>DSA & Competitive Programming</strong></li>
 <li>🤝 Open to <strong>collaboration & real-world projects</strong></li>
