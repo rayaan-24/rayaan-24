@@ -33,6 +33,7 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 </a>
 </td>
 </tr>
+
 </table>
 
 
