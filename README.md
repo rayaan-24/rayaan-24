@@ -36,7 +36,6 @@ I build <strong>real-world systems</strong> using Full Stack and AI — not just
 
 </table>
 
-
 ## ❤️ Connect With Me
 
 <p>
